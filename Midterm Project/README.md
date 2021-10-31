@@ -21,6 +21,6 @@ This project can also be deployed to a Docker container running on a Ubuntu 20.0
 
 To deploy the Docker container after it has been build, run
 
-> docker run -it --rm -p 9696:9696 enrolle-predict
+> docker run -it --rm -p 9696:9696 enrollee-predict
 
 The project will run on **localhost:9696** once deployed.
